@@ -12,10 +12,7 @@ This project involves analyzing student data using the Python library Pandas. Th
   - [Deliverable 4: Drill Down into the Data](#deliverable-4-drill-down-into-the-data)
   - [Deliverable 5: Compare the Data](#deliverable-5-compare-the-data)
 - [Summary](#summary)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -49,29 +46,4 @@ After conducting the analysis on the student data, several interesting findings 
 
 To gain further insights, it would be beneficial to analyze reading scores based on grade as well. Additionally, investigating the relationship between school budget and test scores could provide valuable information.
 
-## Usage
 
-To use this project, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies mentioned in the installation section.
-3. Run the project using your preferred Python environment.
-
-## Installation
-
-To install the necessary dependencies, run the following command:
-
-```shell
-pip install pandas
-```
-
-## Contributing
-
-Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to further customize the content and structure of the README file to best fit your project.
